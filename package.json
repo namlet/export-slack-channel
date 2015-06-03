@@ -1,0 +1,23 @@
+{
+  "name": "export-slack-channel",
+  "version": "1.0.0",
+  "description": "Export a given channel from slack and strip text",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/namlet/export-slack-channel.git"
+  },
+  "author": "Nathan Loyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namlet/export-slack-channel/issues"
+  },
+  "homepage": "https://github.com/namlet/export-slack-channel"
+}
