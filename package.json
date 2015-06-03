@@ -4,7 +4,8 @@
   "description": "Export a given channel from slack and strip text",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.12.4"
+    "express": "^4.12.4",
+    "request": "^2.57.0"
   },
   "devDependencies": {},
   "scripts": {
